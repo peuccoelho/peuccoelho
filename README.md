@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Olá, eu sou Pedro Coelho
 
-<!--
-**peuccoelho/peuccoelho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor em busca de novos desafios e aprendizados.  
+🚀 Atualmente focado em projetos **Full Stack**.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias & Ferramentas
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+---
+
+## 📊 Estatísticas
+
+![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=peuccoelho&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peuccoelho&layout=compact&theme=tokyonight)
+
+---
+
+## 📈 Atividade & Contribuições
+
+![Resumo do Perfil](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=peuccoelho&theme=dracula)
+
+---
+
+## 🐍 Commits animados
+
+![Snake animation](https://github.com/peuccoelho/peuccoelho/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+✨ Sempre buscando aprender, colaborar e transformar ideias em realidade!
