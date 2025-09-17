@@ -17,14 +17,6 @@
 
 ---
 
-## 📊 Estatísticas
-
-![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=peuccoelho&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peuccoelho&layout=compact&theme=tokyonight)
-
----
-
 ## 📈 Atividade & Contribuições
 
 ![Resumo do Perfil](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=peuccoelho&theme=dracula)
