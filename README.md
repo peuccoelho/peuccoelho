@@ -1,11 +1,11 @@
-# 👋 Olá, eu sou Pedro Coelho
+# Olá, eu sou Pedro Coelho
 
-💻 Desenvolvedor em busca de novos desafios e aprendizados.  
-🚀 Atualmente focado em projetos **Full Stack**.  
+Desenvolvedor em busca de novos desafios e aprendizados.  
+Atualmente focado em projetos **Full Stack**.  
 
 ---
 
-## 🚀 Tecnologias & Ferramentas
+## Tecnologias & Ferramentas
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
