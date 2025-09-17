@@ -23,10 +23,4 @@
 
 ---
 
-## 🐍 Commits animados
-
-![Snake animation](https://github.com/peuccoelho/peuccoelho/blob/output/github-contribution-grid-snake.svg)
-
----
-
-✨ Sempre buscando aprender, colaborar e transformar ideias em realidade!
+uscando aprender, colaborar e transformar ideias em realidade!
