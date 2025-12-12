@@ -1,7 +1,6 @@
 # Olá, eu sou Pedro Coelho
 
-Desenvolvedor que busca transformar suas ideias em realidade para alavancar seus resultados.  
-Atualmente focado em projetos **Full Stack**.  
+Desenvolvedor, atualmente focado em projetos **Full Stack**.  
 
 ---
 
