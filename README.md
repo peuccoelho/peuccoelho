@@ -1,8 +1,5 @@
 # Olá, eu sou Pedro Coelho
 
-Desenvolvedor, atualmente focado em projetos **Full Stack**.  
-
----
 
 ## Tecnologias & Ferramentas
 
