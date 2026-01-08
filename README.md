@@ -12,7 +12,7 @@
 
 ---
 
-## 📈 Atividade & Contribuições
+## Atividade & Contribuições
 
 ![Resumo do Perfil](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=peuccoelho&theme=dracula)
 
