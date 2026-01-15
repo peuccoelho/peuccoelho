@@ -10,10 +10,3 @@
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
----
-
-## Atividade & Contribuições
-
-![Resumo do Perfil](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=peuccoelho&theme=dracula)
-
-
