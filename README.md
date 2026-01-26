@@ -56,26 +56,6 @@ I'm a passionate **Full Stack Developer** with expertise in building scalable we
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
----
-
-## GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=peuccoelho&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peuccoelho&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=peuccoelho&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
-## GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=peuccoelho&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
-</div>
 
 ---
 
@@ -128,17 +108,6 @@ I'm actively contributing to open-source projects and building innovative soluti
 - AI/ML Integration
 - Developer Tools & Automation
 
----
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-</div>
-
-<div align="center">
-  
-### "Code is like humor. When you have to explain it, it's bad." – Cory House
-
-</div>
 
 ---
 
