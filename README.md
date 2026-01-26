@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋 Hi, I'm Pedro Coelho</h1>
+  <h1>Hi, I'm Pedro Coelho</h1>
   <h3>Full Stack Developer | Cloud Solutions Architect | Tech Enthusiast</h3>
 </div>
 
@@ -14,18 +14,18 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm a passionate **Full Stack Developer** with expertise in building scalable web and mobile applications. With a strong background in modern technologies and cloud platforms, I focus on creating efficient, maintainable, and user-centric solutions.
 
-- 🔭 Currently working on **cloud-native applications** and **microservices architectures**
-- 🌱 Continuously learning **advanced system design patterns** and **DevOps practices**
-- 💡 Interested in **AI/ML integration**, **performance optimization**, and **clean architecture**
-- ⚡ Fun fact: I love solving complex problems and optimizing application performance
+- Currently working on **cloud-native applications** and **microservices architectures**
+- Continuously learning **advanced system design patterns** and **DevOps practices**
+- Interested in **AI/ML integration**, **performance optimization**, and **clean architecture**
+- Fun fact: I love solving complex problems and optimizing application performance
 
 ---
 
-## 🛠️ Technical Stack
+## Technical Stack
 
 ### **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -58,7 +58,7 @@ I'm a passionate **Full Stack Developer** with expertise in building scalable we
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=peuccoelho&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
@@ -71,7 +71,7 @@ I'm a passionate **Full Stack Developer** with expertise in building scalable we
 
 ---
 
-## 🏆 GitHub Achievements
+## GitHub Achievements
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=peuccoelho&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
@@ -79,32 +79,32 @@ I'm a passionate **Full Stack Developer** with expertise in building scalable we
 
 ---
 
-## 💼 Professional Expertise
+## Professional Expertise
 
 ### **Architecture & Design**
-- 🏗️ Microservices Architecture
-- 🎯 RESTful API Design
-- 🔄 Event-Driven Architecture
-- 📦 Domain-Driven Design (DDD)
-- 🧩 SOLID Principles & Design Patterns
+- Microservices Architecture
+- RESTful API Design
+- Event-Driven Architecture
+- Domain-Driven Design (DDD)
+- SOLID Principles & Design Patterns
 
 ### **Development Practices**
-- ✅ Test-Driven Development (TDD)
-- 🔄 CI/CD Pipeline Implementation
-- 📝 Code Review & Quality Assurance
-- 🐳 Containerization & Orchestration
-- 📊 Performance Optimization & Monitoring
+- Test-Driven Development (TDD)
+- CI/CD Pipeline Implementation
+- Code Review & Quality Assurance
+- Containerization & Orchestration
+- Performance Optimization & Monitoring
 
 ### **Cloud & Infrastructure**
-- ☁️ Azure Cloud Services (App Services, Functions, Storage)
-- 🚀 Serverless Architecture
-- 🔐 Security Best Practices & Authentication (OAuth, JWT)
-- 📈 Scalability & High Availability
-- 💾 Database Design & Optimization
+- Azure Cloud Services (App Services, Functions, Storage)
+- Serverless Architecture
+- Security Best Practices & Authentication (OAuth, JWT)
+- Scalability & High Availability
+- Database Design & Optimization
 
 ---
 
-## 📫 How to Reach Me
+## How to Reach Me
 
 <p align="center">
   <a href="https://github.com/peuccoelho">
@@ -117,16 +117,16 @@ I'm a passionate **Full Stack Developer** with expertise in building scalable we
 
 ---
 
-## 🌟 Featured Projects & Contributions
+## Featured Projects & Contributions
 
 I'm actively contributing to open-source projects and building innovative solutions. Check out my repositories to see what I've been working on!
 
 ### **Key Areas of Interest**
-- 💻 Full Stack Web Applications
-- 📱 Cross-Platform Mobile Development
-- ☁️ Cloud-Native Solutions
-- 🤖 AI/ML Integration
-- 🔧 Developer Tools & Automation
+- Full Stack Web Applications
+- Cross-Platform Mobile Development
+- Cloud-Native Solutions
+- AI/ML Integration
+- Developer Tools & Automation
 
 ---
 
@@ -136,12 +136,12 @@ I'm actively contributing to open-source projects and building innovative soluti
 
 <div align="center">
   
-### 💭 "Code is like humor. When you have to explain it, it's bad." – Cory House
+### "Code is like humor. When you have to explain it, it's bad." – Cory House
 
 </div>
 
 ---
 
 <div align="center">
-  <sub>⭐️ From <a href="https://github.com/peuccoelho">peuccoelho</a> | Last updated: 2025</sub>
+  <sub>From <a href="https://github.com/peuccoelho">peuccoelho</a> | Last updated: 2025</sub>
 </div>
