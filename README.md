@@ -42,7 +42,7 @@ I'm a passionate **Full Stack Developer** with expertise in building scalable we
 ### **Backend Development**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### **Cloud & DevOps**
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
@@ -113,9 +113,6 @@ I'm a passionate **Full Stack Developer** with expertise in building scalable we
   <a href="https://linkedin.com/in/peuccoelho">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:peuccoelho@email.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
 </p>
 
 ---
@@ -146,5 +143,5 @@ I'm actively contributing to open-source projects and building innovative soluti
 ---
 
 <div align="center">
-  <sub>⭐️ From <a href="https://github.com/peuccoelho">peuccoelho</a> | Last updated: 2026</sub>
+  <sub>⭐️ From <a href="https://github.com/peuccoelho">peuccoelho</a> | Last updated: 2025</sub>
 </div>
