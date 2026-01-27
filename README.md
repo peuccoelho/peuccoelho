@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>Hi, I'm Pedro Coelho</h1>
-  <h3>Full Stack Developer | Cloud Solutions Architect | Tech Enthusiast</h3>
+  <h1>Olá, sou Pedro Coelho</h1>
+  <h3>Desenvolvedor Full Stack | Entusiasta de Tecnologia</h3>
 </div>
 
 <p align="center">
@@ -14,43 +14,41 @@
 
 ---
 
-## About Me
+## Sobre Mim
 
-I'm a passionate **Full Stack Developer** with expertise in building scalable web and mobile applications. With a strong background in modern technologies and cloud platforms, I focus on creating efficient, maintainable, and user-centric solutions.
+Sou um **Desenvolvedor Full Stack** apaixonado por criar aplicações web e mobile escaláveis. Com sólida experiência em tecnologias modernas, foco em desenvolver soluções eficientes, sustentáveis e centradas no usuário.
 
-- Currently working on **cloud-native applications** and **microservices architectures**
-- Continuously learning **advanced system design patterns** and **DevOps practices**
-- Interested in **AI/ML integration**, **performance optimization**, and **clean architecture**
-- Fun fact: I love solving complex problems and optimizing application performance
+- Atualmente trabalhando em **arquiteturas de microsserviços**
+- Aprendendo continuamente **padrões avançados de design de sistemas** e **práticas de DevOps**
+- Interessado em **integração de IA/ML**, **otimização de performance** e **arquitetura limpa**
+- Fato curioso: Adoro resolver problemas complexos e otimizar a performance de aplicações
 
 ---
 
-## Technical Stack
+## Stack Técnico
 
-### **Languages**
+### **Linguagens**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-### **Frontend Development**
+### **Desenvolvimento Frontend**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### **Backend Development**
+### **Desenvolvimento Backend**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### **Cloud & DevOps**
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+### **DevOps**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-### **Databases**
+### **Bancos de Dados**
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -59,32 +57,29 @@ I'm a passionate **Full Stack Developer** with expertise in building scalable we
 
 ---
 
-## Professional Expertise
+## Expertise Profissional
 
-### **Architecture & Design**
-- Microservices Architecture
-- RESTful API Design
-- Event-Driven Architecture
+### **Arquitetura & Design**
+- Arquitetura de Microsserviços
+- Design de APIs RESTful
+- Arquitetura Orientada a Eventos
 - Domain-Driven Design (DDD)
-- SOLID Principles & Design Patterns
+- Princípios SOLID & Padrões de Design
 
-### **Development Practices**
+### **Práticas de Desenvolvimento**
 - Test-Driven Development (TDD)
-- CI/CD Pipeline Implementation
-- Code Review & Quality Assurance
-- Containerization & Orchestration
-- Performance Optimization & Monitoring
+- Implementação de Pipelines CI/CD
+- Revisão de Código & Garantia de Qualidade
+- Otimização de Performance & Monitoramento
 
-### **Cloud & Infrastructure**
-- Azure Cloud Services (App Services, Functions, Storage)
-- Serverless Architecture
-- Security Best Practices & Authentication (OAuth, JWT)
-- Scalability & High Availability
-- Database Design & Optimization
+### **Segurança & Infraestrutura**
+- Melhores Práticas de Segurança & Autenticação (OAuth, JWT)
+- Escalabilidade & Alta Disponibilidade
+- Design & Otimização de Bancos de Dados
 
 ---
 
-## How to Reach Me
+## Como Me Encontrar
 
 <p align="center">
   <a href="https://github.com/peuccoelho">
@@ -97,20 +92,19 @@ I'm a passionate **Full Stack Developer** with expertise in building scalable we
 
 ---
 
-## Featured Projects & Contributions
+## Projetos em Destaque & Contribuições
 
-I'm actively contributing to open-source projects and building innovative solutions. Check out my repositories to see what I've been working on!
+Contribuo ativamente para projetos open-source e desenvolvo soluções inovadoras. Confira meus repositórios para ver no que tenho trabalhado!
 
-### **Key Areas of Interest**
-- Full Stack Web Applications
-- Cross-Platform Mobile Development
-- Cloud-Native Solutions
-- AI/ML Integration
-- Developer Tools & Automation
+### **Principais Áreas de Interesse**
+- Aplicações Web Full Stack
+- Desenvolvimento Mobile Multiplataforma
+- Integração de IA/ML
+- Ferramentas para Desenvolvedores & Automação
 
 
 ---
 
 <div align="center">
-  <sub>From <a href="https://github.com/peuccoelho">peuccoelho</a> | Last updated: 2025</sub>
+  <sub>De <a href="https://github.com/peuccoelho">peuccoelho</a> | Última atualização: 2025</sub>
 </div>
