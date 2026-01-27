@@ -74,7 +74,7 @@ Sou um **Desenvolvedor Full Stack** apaixonado por criar aplicações web e mobi
 
 ### **Segurança & Infraestrutura**
 - Melhores Práticas de Segurança & Autenticação (OAuth, JWT)
-- Escalabilidade & Alta Disponibilidade
+- Escalabilidade de Aplicações
 - Design & Otimização de Bancos de Dados
 
 ---
