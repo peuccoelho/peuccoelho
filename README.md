@@ -54,7 +54,6 @@ Sou um **Desenvolvedor Full Stack** apaixonado por criar aplicações web e mobi
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-
 ---
 
 ## Projetos em Destaque & Contribuições
