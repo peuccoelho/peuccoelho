@@ -57,41 +57,6 @@ Sou um **Desenvolvedor Full Stack** apaixonado por criar aplicações web e mobi
 
 ---
 
-## Expertise Profissional
-
-### **Arquitetura & Design**
-- Arquitetura de Microsserviços
-- Design de APIs RESTful
-- Arquitetura Orientada a Eventos
-- Domain-Driven Design (DDD)
-- Princípios SOLID & Padrões de Design
-
-### **Práticas de Desenvolvimento**
-- Test-Driven Development (TDD)
-- Implementação de Pipelines CI/CD
-- Revisão de Código & Garantia de Qualidade
-- Otimização de Performance & Monitoramento
-
-### **Segurança & Infraestrutura**
-- Melhores Práticas de Segurança & Autenticação (OAuth, JWT)
-- Escalabilidade de Aplicações
-- Design & Otimização de Bancos de Dados
-
----
-
-## Como Me Encontrar
-
-<p align="center">
-  <a href="https://github.com/peuccoelho">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://linkedin.com/in/peuccoelho">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
-
----
-
 ## Projetos em Destaque & Contribuições
 
 Contribuo ativamente para projetos open-source e desenvolvo soluções inovadoras. Confira meus repositórios para ver no que tenho trabalhado!
