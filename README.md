@@ -7,9 +7,6 @@
   <a href="https://github.com/peuccoelho">
     <img src="https://komarev.com/ghpvc/?username=peuccoelho&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   </a>
-  <a href="https://github.com/peuccoelho?tab=followers">
-    <img src="https://img.shields.io/github/followers/peuccoelho?label=Followers&style=social" alt="GitHub followers" />
-  </a>
 </p>
 
 ---
