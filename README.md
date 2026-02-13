@@ -17,7 +17,6 @@ Sou um **Desenvolvedor Full Stack** apaixonado por criar aplicações web e mobi
 
 - Atualmente trabalhando em **arquiteturas de microsserviços**
 - Aprendendo continuamente **padrões avançados de design de sistemas** e **práticas de DevOps**
-- Interessado em **integração de IA/ML**, **otimização de performance** e **arquitetura limpa**
 - Com experiencia em desenvolvimento web, com projetos de diversos tipos como **e-commerce, gestão financeira e gestão de lotes**
 
 ---
