@@ -56,7 +56,6 @@ Contribuo ativamente para projetos open-source e desenvolvo soluções inovadora
 ### **Principais Áreas de Interesse**
 - Aplicações Web Full Stack
 - Desenvolvimento Mobile Multiplataforma
-- Integração de IA/ML
 - Ferramentas para Desenvolvedores & Automação
 
 
