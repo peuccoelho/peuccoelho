@@ -60,8 +60,4 @@ Contribuo ativamente para projetos open-source e desenvolvo soluções inovadora
 
 
 
----
 
-<div align="center">
-  <sub><a href="https://github.com/peuccoelho">peuccoelho</a></sub>
-</div>
