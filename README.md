@@ -15,7 +15,7 @@
 
 Sou um **Desenvolvedor Full Stack** apaixonado por criar aplicações web e mobile escaláveis. Com sólida experiência em tecnologias modernas, foco em desenvolver soluções eficientes e centradas no usuário.
 
-- Atualmente trabalhando em **arquiteturas de microsserviços**
+- Atualmente trabalhando em **arquiteturas de microsserviços e desenvolvimento web/mobile**
 - Com experiencia em desenvolvimento web, com projetos de diversos tipos como **e-commerce, gestão financeira e gestão de lotes**
 
 ---
