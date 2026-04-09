@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Olá, sou Pedro Coelho</h1>
+  <h1>Sou Pedro Coelho</h1>
   <h3>Desenvolvedor Full Stack</h3>
 </div>
 
