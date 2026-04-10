@@ -44,7 +44,7 @@ Sou um **Desenvolvedor Full Stack** apaixonado por criar aplicações web e mobi
 
 ## Projetos em Destaque & Contribuições
 
-Contribuo ativamente para projetos open-source e desenvolvo soluções inovadoras. Confira meus repositórios para ver no que tenho trabalhado!
+Confira meus repositórios para ver no que tenho trabalhado!
 
 ### **Principais Áreas de Interesse**
 - Aplicações Web Full Stack
