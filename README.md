@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Pedro Coelho</h1>
-  <h3>Desenvolvedor Full Stack</h3>
+  <h3>Full Stack</h3>
 </div>
 
 <p align="center">
