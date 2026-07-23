@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Pedro Coelho</h1>
+  <h1>Pedro A. Coelho</h1>
   <h3>Full Stack</h3>
 </div>
 
