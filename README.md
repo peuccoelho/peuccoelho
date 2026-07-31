@@ -21,7 +21,7 @@ Sou um **Desenvolvedor Full Stack** apaixonado por criar aplicações web e mobi
 
 ---
 
-## Stack Técnico
+## Stacks Técnicos
 
 ### **Linguagens**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
