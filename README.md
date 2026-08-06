@@ -8,7 +8,7 @@
 
 ---
 
-## 🤖 PEDRO AI CORE
+## PEDRO AI CORE
 
 ```bash
 ╭────────────────────────────╮
@@ -24,12 +24,12 @@ Initializing system...
 ✔ Code engine activated
 ✔ Projects loaded
 
-STATUS: ONLINE 🚀
+STATUS: ONLINE 
 ```
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
 ```javascript
 const Pedro = {
@@ -69,14 +69,14 @@ const Pedro = {
  ],
 
  passion:
- "Building digital experiences 🚀"
+ "Building digital experiences "
 
 }
 ```
 
 ---
 
-## ⚡ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -86,9 +86,9 @@ const Pedro = {
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-| 🚀 Project | 💡 Description |
+| Project | Description |
 |---|---|
 | Papudim | Cardapio Digital |
 | Front-operacional | Operational Dashboard |
@@ -100,7 +100,7 @@ const Pedro = {
 
 ---
 
-## 🧠 Current Mission
+## Current Mission
 
 ```bash
 > Loading objectives...
@@ -114,12 +114,12 @@ const Pedro = {
 [██████████] Creating Projects
 
 STATUS:
-Never stop learning 🚀
+Never stop learning 
 ```
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -134,26 +134,6 @@ Never stop learning 🚀
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=peuccoelho&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=peuccoelho&theme=tokyonight&no-frame=true&margin-w=15"/>
-
-</div>
-
----
-
-## 🐍 Contribution Animation
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/peuccoelho/peuccoelho/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
