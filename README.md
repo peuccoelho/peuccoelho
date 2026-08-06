@@ -137,31 +137,8 @@ Never stop learning
 
 </div>
 
----
 
-## 🌎 Connect With Me
 
-<div align="center">
-
-<a href="https://github.com/peuccoelho">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://linkedin.com">
-<img src="https://img.shields.io/badge/https://www.linkedin.com/in/pedro-coelho-b537682b1/)&logo=linkedin&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 💜 "Turning ideas into code and code into experiences."
-
-<img src="https://komarev.com/ghpvc/?username=peuccoelho&style=for-the-badge&color=8A2BE2"/>
-
-</div>
 
 
 
