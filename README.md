@@ -148,7 +148,7 @@ Never stop learning
 </a>
 
 <a href="https://linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/https://www.linkedin.com/in/pedro-coelho-b537682b1/)&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
