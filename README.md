@@ -80,7 +80,7 @@ const Pedro = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,php,python,mysql,supabase,git,github,figma,vscode,docker&perline=8"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,php,python,vercel,mysql,supabase,git,github,figma,vscode,docker&perline=8"/>
 
 </div>
 
