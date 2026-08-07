@@ -38,7 +38,7 @@ const Pedro = {
 
  role: "Full Stack Developer",
 
- location: "Bahia, Brazil 🇧🇷",
+ location: "Salvador, Bahia",
 
  stack: {
     frontend: [
