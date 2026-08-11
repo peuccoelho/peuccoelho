@@ -66,6 +66,7 @@ const Pedro = {
    "GitHub",
    "Figma",
    "VS Code"
+   "Docker"
  ],
 
  passion:
