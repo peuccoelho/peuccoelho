@@ -8,7 +8,7 @@
 
 ---
 
-## PEDRO AI CORE
+## PEDRO CORE
 
 ```bash
 ╭────────────────────────────╮
