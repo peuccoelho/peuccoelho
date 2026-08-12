@@ -108,9 +108,9 @@ const Pedro = {
 
 [██████████] React Development
 
-[████████░░] Backend Skills
+[████████  ] Backend Skills
 
-[███████░░░] Artificial Intelligence
+[███████   ] Artificial Intelligence
 
 [██████████] Creating Projects
 
