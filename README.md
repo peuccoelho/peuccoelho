@@ -94,7 +94,7 @@ const Pedro = {
 | Papudim | Cardapio Digital |
 | Front-operacional | Operational Dashboard |
 | Papudim lotes | Operational Dashboard |
-| Nfs-e | Automations |
+| Nfs-e | finance Automations |
 | Cielo Payment | API integration |
 | Landtur | Educational Landing Page |
 | pedrocoelho.me | Portfolio |
