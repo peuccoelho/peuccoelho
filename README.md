@@ -43,6 +43,7 @@ const Pedro = {
  stack: {
     frontend: [
       "React",
+      "Tailwind",
       "JavaScript",
       "TypeScript",
       "HTML",
